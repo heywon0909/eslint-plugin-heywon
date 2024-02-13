@@ -13,6 +13,7 @@ module.exports = {
     node: true,
     browser:true,
   },
+  parser: '@typescript-eslint/parser',
   rules: {
     // Note: you must disable the base rule as it can report incorrect errors
     "no-array-constructor": "off",

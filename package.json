@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-heywon",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "heywon custom plugin",
   "keywords": [
     "eslint",
@@ -25,6 +25,7 @@
     "browser": true
   },
   "devDependencies": {
+    "@typescript-eslint/parser": "^7.0.1",
     "eslint": "^8.19.0",
     "eslint-doc-generator": "^1.0.0",
     "eslint-plugin-eslint-plugin": "^5.0.0",
