@@ -21,8 +21,6 @@ module.exports = {
       "error",
       {
         patterns: [".*"],
-      },
-      {
         paths: [
           {
             name: "react",
