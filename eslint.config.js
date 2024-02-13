@@ -33,10 +33,10 @@ module.exports = {
       },
     ],
   },
-  overrides: [
-    {
-      files: ["tests/**/*.js"],
-      env: { mocha: true },
-    },
-  ],
+  // overrides: [
+  //   {
+  //     files: ["tests/**/*.js"],
+  //     env: { mocha: true },
+  //   },
+  // ],
 };
