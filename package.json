@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-heywon",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "heywon custom plugin",
   "keywords": [
     "eslint",
