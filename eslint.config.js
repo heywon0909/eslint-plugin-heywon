@@ -8,10 +8,10 @@ module.exports = {
     "plugin:node/recommended",
     "plugin:react/recommended",
     "plugin:@typescript-eslint/recommended",
-    "plugin:@typescript-eslint/stylistic",
   ],
   env: {
     node: true,
+    browser:true,
   },
   rules: {
     // Note: you must disable the base rule as it can report incorrect errors
